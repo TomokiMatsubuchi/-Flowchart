@@ -1,1 +1,162 @@
-<mxfile host="app.diagrams.net" modified="2022-09-09T04:00:23.217Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" version="20.3.0" etag="oYMRJRNtQFRgkAqrbtZb" type="github"><diagram id="nAzMcWrKpUT0CFcxP1sm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-09T04:13:46.072Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="AXllFYGbyExXBYc5jjBz" version="20.3.0" type="github">
+  <diagram id="nAzMcWrKpUT0CFcxP1sm" name="ページ1">
+    <mxGraphModel dx="679" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-1" value="エラー発生" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-2" value="エラーメッセージを確認" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xcm02D6zUWWnHoUPv3wj-1" target="xcm02D6zUWWnHoUPv3wj-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="380" as="sourcePoint" />
+            <mxPoint x="370" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-4" value="エラー箇所が特定できる" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="264" y="280" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-5" value="エラー復旧" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xcm02D6zUWWnHoUPv3wj-4" target="xcm02D6zUWWnHoUPv3wj-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="370" as="sourcePoint" />
+            <mxPoint x="370" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-7" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="355" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xcm02D6zUWWnHoUPv3wj-2" target="xcm02D6zUWWnHoUPv3wj-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="370" as="sourcePoint" />
+            <mxPoint x="370" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-10" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;テキストの質問項目に&lt;br&gt;似たエラーがある&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="380" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xcm02D6zUWWnHoUPv3wj-4" target="xcm02D6zUWWnHoUPv3wj-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="360" as="sourcePoint" />
+            <mxPoint x="700" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-12" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="390" y="340" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-16" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xcm02D6zUWWnHoUPv3wj-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="360" as="sourcePoint" />
+            <mxPoint x="340" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="480" />
+              <mxPoint x="340" y="480" />
+              <mxPoint x="340" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-17" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="530" y="440" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-18" value="Diver内の検索にて&lt;br&gt;似たエラーがある" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="740" y="460" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-19" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xcm02D6zUWWnHoUPv3wj-10" target="xcm02D6zUWWnHoUPv3wj-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="360" as="sourcePoint" />
+            <mxPoint x="800" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="805" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-20" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="650" y="375" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-21" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xcm02D6zUWWnHoUPv3wj-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="360" as="sourcePoint" />
+            <mxPoint x="340" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="805" y="560" />
+              <mxPoint x="340" y="560" />
+              <mxPoint x="340" y="620" />
+              <mxPoint x="340" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-22" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="750" y="525" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-24" value="Google検索にて&lt;br&gt;似たエラーがあるか調べる" style="rhombus;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="900" y="545" width="110" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-25" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xcm02D6zUWWnHoUPv3wj-18" target="xcm02D6zUWWnHoUPv3wj-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="490" as="sourcePoint" />
+            <mxPoint x="870" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="955" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-26" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="xcm02D6zUWWnHoUPv3wj-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="490" as="sourcePoint" />
+            <mxPoint x="338" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-27" value="YES" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="870" y="605" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-28" value="メンダーさんに&lt;br&gt;質問をする" style="rounded=0;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="890" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-29" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xcm02D6zUWWnHoUPv3wj-24" target="xcm02D6zUWWnHoUPv3wj-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="850" y="480" as="sourcePoint" />
+            <mxPoint x="900" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1010" y="670" />
+              <mxPoint x="950" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-30" value="NO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="990" y="555" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-31" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xcm02D6zUWWnHoUPv3wj-28" target="xcm02D6zUWWnHoUPv3wj-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="510" as="sourcePoint" />
+            <mxPoint x="660" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="950" y="800" />
+              <mxPoint x="760" y="800" />
+              <mxPoint x="760" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-32" value="終了" style="ellipse;whiteSpace=wrap;html=1;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="279" y="780" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xcm02D6zUWWnHoUPv3wj-33" value="" style="endArrow=classic;html=1;rounded=0;fontSize=9;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xcm02D6zUWWnHoUPv3wj-5" target="xcm02D6zUWWnHoUPv3wj-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="550" as="sourcePoint" />
+            <mxPoint x="390" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
